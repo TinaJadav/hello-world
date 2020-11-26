@@ -1,2 +1,5 @@
 # hello-world
-just sample repository
+hello everyone!
+
+Tina here, I like website designing.
+And white sauce pasta too.
